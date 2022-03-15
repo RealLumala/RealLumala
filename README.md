@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RealLumala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @RealLumala, a professional software Architect and Engineer. Am so passionate about the next generation technologies. With programming proficiency in
+- Solidity,Rust,Python,Go, React,Js and more, i have worked on several projects such as Micro Payments, DApp development , NFTs projects on Ethereum,Polygon, Solana
+- and NEAR protocol. Interested in DeFi,Crypto and Metaverses.
 
-<!---
-RealLumala/RealLumala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- An avid reader, Crypto Zealot, Blockchain Geek, Clean Energy Enthusiast and Soccer fan.
