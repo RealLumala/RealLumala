@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RealLumala, a professional software Architect and Engineer. Am so passionate about the next generation technologies. With programming proficiency in
+- 👋 Hi, I’m @RealLumala, a professional software Architect and Blockchains Engineer. Am so passionate about the next generation technologies. With programming proficiency in
 - Solidity,Rust,Python,Go, React,Js and more, i have worked on several projects such as Micro Payments, DApp development , NFTs projects on Ethereum,Polygon, Solana
 - and NEAR protocol. Interested in DeFi,Crypto and Metaverses.
 
