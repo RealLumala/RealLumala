@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @RealLumala, a professional Blockchain Software Architect and Engineer. Am so passionate about the next generation technologies. With programming proficiency in
-- Solidity,Rust,Python,Go,Haskell,Javascript and more,  have worked on several projects such as Micro Payments like Shannon wallet, DEX Development(mean.finance) , NFTs projects(greenant.farm & Musica) in Web 3.0
-- Interested in DeFi,Decentralized autonomy & Governance and Metaverses.
-
-- An avid reader & Researcher.
+- Blockchain Software Architect and Engineer.
+- Programs in Solidity,Rust,Python,Go,Haskell,Javascript & their derivatives.
+- Lets buidl DeFi,Decentralized autonomy & Governance and The Metaverse.
+- Formerly at Shannon Wallet, Mean.finance , Greent.farm, Radiant Capital, Omniscia.io & DY/DX .
+- Audit The Auditor (Web 3.0 Security)
+- An avid Researcher.
