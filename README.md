@@ -4,3 +4,4 @@
 - Formerly at Shannon Wallet, Mean.finance , Greent.farm, Radiant Capital, Omniscia.io & DY/DX .
 - Audit The Auditor (Web 3.0 Security)
 - An avid Researcher.
+- Digital nomad (Decentraland location coming soon...)
