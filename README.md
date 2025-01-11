@@ -5,3 +5,4 @@
 - Audit The Auditor (Web 3.0 Security)
 - An avid Researcher . Working on Interoperability of blockchains.
 - Digital nomad (Decentraland location coming soon...)
+- Taking Web3 to the masses .
